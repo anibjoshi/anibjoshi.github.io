@@ -1,4 +1,4 @@
-## A journey into Deep Reinforcement Learning (With Minimal Math)
+## A journey into Reinforcement Learning (With Minimal Math) - Part 1
 
 Reinforcement Learning (RL) is a term that often surfaces in discussions surrounding Artificial Intelligence (AI) and Machine Learning (ML). Known for its robust applications spanning robotics, finance, and autonomous driving, RL stands as a potent field in the technological realm. However, delving into Reinforcement Learning typically demands a solid mathematical base, as its concepts and algorithms frequently take the form of intricate mathematical expressions. This mathematical complexity can pose a barrier, even for those with a technical background.
 
