@@ -2,6 +2,7 @@
 
 Hi! I'm Ani and I work as a Product Manager in the Data & AI division at IBM. I am an engineer turned Product Manager who loves tinkering with new technology and loves to learn new things.
 I have had a diverse number of roles in the technology industry over the past 10 years - 
+- Product Manager at IBM in Data & AI
 - Corporate Strategy at IBM where I worked on AI strategy, strategic partnerships with AWS, and M&A due diligence for acquisitions in the data management industry.
 - Venture architect at Create Ventures where I evaluated startup ideas for viability and worked with enterpreneurs-in-residence on their MVPs.
 - Software Engineer at Oracle where I built B2B SaaS products for the enterprise market
