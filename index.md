@@ -1,4 +1,4 @@
-![](images/anij-memoji.png)
+![](images/anij-memoji.jpg)
 
 Hi! I'm Ani and I am an engineer turned Product Manager who loves tinkering with new technology and loves to learn new things.
 I have had a diverse number of roles in the technology industry over the past 10 years - 
